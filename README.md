@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am Simone Contorno, graduated in Robotics Engineering with a strong passion for programming!
 
@@ -9,12 +9,11 @@ I am Simone Contorno, graduated in Robotics Engineering with a strong passion fo
 - 👨🏻‍🎓 Msc in [Robotics Engineering](https://courses.unige.it/10635) 
 - 🔭 I’m currently looking for an excellent job opportunity in the autonomous vehicle field which can give me solid possibilities for growing  
 - 🌱 I’m currently finishing my studies in Robotics Engineering by developing a Nonlinear Model Predictive Control for Self-Driving Vehicles for my Master's thesis
-- 📫 How to reach me: <a href="mailto:simone.contorno@outlook.it">e-mail</a> 
 - ⚡️ Fun facts: Gaming 🎮 & Sport 🏋️‍♂️ 
 
 ---
 
-### 🔗 Connect with me
+## 🔗 Connect 
 
 <p align="left">
   <a href="https://github.com/simone-contorno" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="simone-contorno" height="30" width="40" /></a>
@@ -29,9 +28,9 @@ I am Simone Contorno, graduated in Robotics Engineering with a strong passion fo
 
 ---
 
-### 🛠️ Tools
-  <br/>
-  <p align="left"> 
+## 🛠️ Tools
+
+<p align="left"> 
   <a href="https://git-scm.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -42,48 +41,32 @@ I am Simone Contorno, graduated in Robotics Engineering with a strong passion fo
   <a href="https://www.latex-project.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> </a>
   <a href="https://matlab.mathworks.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  </p>
+</p>
 
 ---
 
-### 📈 My Stats
+## 📈 Stats
 
 ![<My Stats>](https://github-readme-stats.vercel.app/api?username=simone-contorno&show_icons=true&theme=algolia)
 
 ---
 
-### 💻 My main Repositories
+## 💻 Main Repositories
 
 <a href="https://github.com/simone-contorno/mynmpc">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=simone-contorno&repo=mynmpc)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simone-contorno&repo=mynmpc&show_icons=true&theme=algolia" />
 </a>
+
 <a href="https://github.com/simone-contorno/yarpmanager-console2">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=simone-contorno&repo=yarpmanager-console2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simone-contorno&repo=yarpmanager-console2&show_icons=true&theme=algolia" />
 </a>
-[![Simone's GitHub stats](https://github-readme-stats.vercel.app/api?username=simone-contorno&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/simone-contorno/rt2-assignment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simone-contorno&repo=rt2-assignment&show_icons=true&theme=algolia" />
+</a>
 
 ---
 
-### 📊 My Programming Languages
+## 📊 Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simone-contorno)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simone-contorno&repo=mynmpc)](https://github.com/simone-contorno/mynmpc)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=simone-contorno&repo=yarpmanager-console2)](https://github.com/simone-contorno/yarpmanager-console2)
--->
-
-<!--
-**simone-contorno/simone-contorno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simone-contorno&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
