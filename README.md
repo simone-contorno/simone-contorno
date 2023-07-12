@@ -45,7 +45,7 @@ I am Simone Contorno, graduated in Robotics Engineering with a strong passion fo
 [![Latex badge](https://img.shields.io/badge/Latex-black?style=flat&logo=latex)](https://www.latex-project.org/)
 [![Matlab badge](https://img.shields.io/badge/Matlab-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
 [![Simulink badge](https://img.shields.io/badge/Simulink-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/simulink.html)
-[![VS Code badge](https://img.shields.io/badge/VS_Code-black?style=flat&logo=vscode)](https://code.visualstudio.com/)
+[![VS Code badge](https://img.shields.io/badge/VS_Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 <!--
 <a href="https://git-scm.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="5%" height="5%"/> </a> 
