@@ -54,7 +54,7 @@ I am Simone Contorno, Robotics Engineering student with a strong passion for pro
 [![CSS badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![JavaScript badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://www.javascript.com/)
 [![PHP badge](https://img.shields.io/badge/PHP-black?style=flat&logo=php)](https://www.php.net/)
-[![SQL badge](https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql)](https://www.mysql.com/))
+[![SQL badge](https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql)](https://www.mysql.com/)
 
 ### Markup Languages
 [![Latex badge](https://img.shields.io/badge/Latex-black?style=flat&logo=latex)](https://www.latex-project.org/)
