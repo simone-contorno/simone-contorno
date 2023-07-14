@@ -26,39 +26,55 @@ I am Simone Contorno, Robotics Engineering student with a strong passion for pro
 </a>-->  
 
 [![github badge](https://img.shields.io/badge/GitHub-black?style=social&logo=github)](https://github.com/simone-contorno) 
+
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://www.linkedin.com/in/simone-contorno-7a8505229) 
+
 [![telegram badge](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/simone_contorno) 
+
 [![instagram badge](https://img.shields.io/badge/Instagram-black?style=social&logo=instagram)](https://www.instagram.com/simone_contorno/) 
 
 ---
 
 ## 🛠️ Tools
 
+### Operating Systems
+[![Windows badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows?r=1)
+[![Linux badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://www.linux.org/)
+
+### Robot Operating Systems
+[![ROS badge](https://img.shields.io/badge/ROS-black?style=flat&logo=ros)](https://www.ros.org/)
+[![ROS 2 badge](https://img.shields.io/badge/ROS_2-black?style=flat&logo=ros)](https://docs.ros.org/en/foxy/)
+
+### Control Systems
 [![Git badge](https://img.shields.io/badge/Git-black?style=flat&logo=git)](https://git-scm.com/)
+
+### Programming Languages
 [![C badge](https://img.shields.io/badge/C-black?style=flat&logo=c)](https://www.iso.org/standard/74528.html)
 [![C++ badge](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B)](https://isocpp.org/)
 [![Python badge](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://www.python.org/)
-[![ROS badge](https://img.shields.io/badge/ROS-black?style=flat&logo=ros)](https://www.ros.org/)
-[![ROS 2 badge](https://img.shields.io/badge/ROS_2-black?style=flat&logo=ros)](https://docs.ros.org/en/foxy/)
-[![Linux badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://www.linux.org/)
-[![Windows badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows?r=1)
+[![Java badge](https://img.shields.io/badge/Java-black?style=flat&logo=java)](https://www.oracle.com/java/)
+
+### Planning Languages
+[![PDDL badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=pddl)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language)
+[![PDDL badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=pddl)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language)
+
+### Web Application Development Languages
+[![HTML badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PHP badge](https://img.shields.io/badge/PHP-black?style=flat&logo=php)](https://www.php.net/)
+[![SQL badge](https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql)](https://www.postgresql.org/)
+
+### Markup Languages
 [![Latex badge](https://img.shields.io/badge/Latex-black?style=flat&logo=latex)](https://www.latex-project.org/)
+
+### Control Systems Development 
 [![Matlab badge](https://img.shields.io/badge/Matlab-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
 [![Simulink badge](https://img.shields.io/badge/Simulink-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/simulink.html)
-[![VS Code badge](https://img.shields.io/badge/VS_Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
 
-<!--
-<a href="https://git-scm.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="5%" height="5%"/> </a> 
-<a href="https://www.w3schools.com/c/index.php" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="5%" height="5%"/> </a> 
-<a href="https://www.w3schools.com/cpp/default.asp" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="5%" height="5%"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="5%" height="5%"/> </a>
-<a href="https://www.ros.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="5%" height="5%"/> </a>
-<a href="https://ubuntu.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="5%" height="5%"/> </a>
-<a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Windows_logo_-_2012_derivative.svg" alt="windows" width="5%" height="5%"/> </a>
-<a href="https://www.latex-project.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="5%" height="5%"/> </a>
-<a href="https://matlab.mathworks.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="5%" height="5%"/> </a>
-<a href="https://code.visualstudio.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="5%" height="5%"/> </a>
--->
+### Softwares
+[![Microsoft Office badge](https://img.shields.io/badge/Microsoft_Office-black?style=flat&logo=microsoft-office)](https://www.microsoft.com/office)
+[![VS Code badge](https://img.shields.io/badge/VS_Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 ---
 
