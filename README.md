@@ -29,7 +29,7 @@ I am Simone Contorno, Robotics Engineering student with a strong passion for pro
 ## 🛠️ Tools
 
 ### Operating Systems
-[![Windows badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows)](https://www.microsoft.com/en-us/windows?r=1)
+[![Windows badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows)](https://www.microsoft.com/)
 [![Linux badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://www.linux.org/)
 
 ### Robot Operating Systems
@@ -47,14 +47,14 @@ I am Simone Contorno, Robotics Engineering student with a strong passion for pro
 
 ### Planning Languages
 [![PDDL badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=pddl)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language#De_facto_official_versions_of_PDDL)
-[![PDDL badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=pddl)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language#Successors/variants/extensions_of_PDDL)
+[![PDDL+ badge](https://img.shields.io/badge/PDDL+-black?style=flat&logo=pddl+)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language#Successors/variants/extensions_of_PDDL)
 
 ### Web Application Development Languages
-[![HTML badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)](https://html.spec.whatwg.org/multipage/)
+[![CSS badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css3)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)](https://www.javascript.com/)
 [![PHP badge](https://img.shields.io/badge/PHP-black?style=flat&logo=php)](https://www.php.net/)
-[![SQL badge](https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql)](https://www.postgresql.org/)
+[![SQL badge](https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql)](https://www.mysql.com/))
 
 ### Markup Languages
 [![Latex badge](https://img.shields.io/badge/Latex-black?style=flat&logo=latex)](https://www.latex-project.org/)
