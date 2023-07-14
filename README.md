@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Simone Contorno, graduated in Robotics Engineering with a strong passion for programming!
+I am Simone Contorno, Robotics Engineering student with a strong passion for programming!
 
 - 😄 Pronouns: He/Him
 - 🇮🇹 Country: Italy, 📍 Sanremo
