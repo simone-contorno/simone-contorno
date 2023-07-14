@@ -16,15 +16,6 @@ I am Simone Contorno, Robotics Engineering student with a strong passion for pro
 
 ## 🔗 Connect 
 
-<!--
-<a href="https://github.com/simone-contorno"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="github" height="5%" width="5%" style="color: #007bff;" /></a>
-<a href="https://www.linkedin.com/in/simone-contorno-7a8505229"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" alt="linkedin" height="5%" width="5%" /></a>
-<a href="https://t.me/simone_contorno"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/telegram.svg" alt="telegram" height="5%" width="5%" />
-<a href="https://www.instagram.com/accounts/login/?next=/simone_contorno/"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/instagram.svg" alt="instagram" height="5%" width="5%" /></a>
-<a href="mailto:simone.contorno@outlook.it">
-<img align="center" src="https://user-images.githubusercontent.com/81308076/155858753-ef1238f1-5887-4e4d-9ac2-2b0bb82836e2.png" alt="simone-contorno" height="5%" width="5%" />
-</a>-->  
-
 [![github badge](https://img.shields.io/badge/GitHub-black?style=social&logo=github)](https://github.com/simone-contorno) 
 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://www.linkedin.com/in/simone-contorno-7a8505229) 
@@ -55,8 +46,8 @@ I am Simone Contorno, Robotics Engineering student with a strong passion for pro
 [![Java badge](https://img.shields.io/badge/Java-black?style=flat&logo=java)](https://www.oracle.com/java/)
 
 ### Planning Languages
-[![PDDL badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=pddl)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language)
-[![PDDL badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=pddl)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language)
+[![PDDL badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=pddl)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language#De_facto_official_versions_of_PDDL)
+[![PDDL badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=pddl)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language#Successors/variants/extensions_of_PDDL)
 
 ### Web Application Development Languages
 [![HTML badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
