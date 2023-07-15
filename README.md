@@ -32,12 +32,18 @@ I am Simone Contorno, Robotics Engineering student with a strong passion for pro
 [![Windows badge](https://img.shields.io/badge/Windows-black?style=flat&logo=windows)](https://www.microsoft.com/)
 [![Linux badge](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)](https://www.linux.org/)
 
+---
+
 ### Robot Operating Systems
 [![ROS badge](https://img.shields.io/badge/ROS-black?style=flat&logo=ros)](https://www.ros.org/)
 [![ROS 2 badge](https://img.shields.io/badge/ROS_2-black?style=flat&logo=ros)](https://docs.ros.org/en/foxy/)
 
+---
+
 ### Control Systems
 [![Git badge](https://img.shields.io/badge/Git-black?style=flat&logo=git)](https://git-scm.com/)
+
+---
 
 ### Programming Languages
 [![C badge](https://img.shields.io/badge/C-black?style=flat&logo=c)](https://www.iso.org/standard/74528.html)
@@ -45,9 +51,13 @@ I am Simone Contorno, Robotics Engineering student with a strong passion for pro
 [![Python badge](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://www.python.org/)
 [![Java badge](https://img.shields.io/badge/Java-black?style=flat&logo=java)](https://www.oracle.com/java/)
 
+---
+
 ### Planning Languages
 [![PDDL badge](https://img.shields.io/badge/PDDL-black?style=flat&logo=pddl)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language#De_facto_official_versions_of_PDDL)
 [![PDDL+ badge](https://img.shields.io/badge/PDDL+-black?style=flat&logo=pddl+)](https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language#Successors/variants/extensions_of_PDDL)
+
+---
 
 ### Web Application Development Languages
 [![HTML badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)](https://html.spec.whatwg.org/multipage/)
@@ -56,12 +66,18 @@ I am Simone Contorno, Robotics Engineering student with a strong passion for pro
 [![PHP badge](https://img.shields.io/badge/PHP-black?style=flat&logo=php)](https://www.php.net/)
 [![SQL badge](https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql)](https://www.mysql.com/)
 
+---
+
 ### Markup Languages
 [![Latex badge](https://img.shields.io/badge/Latex-black?style=flat&logo=latex)](https://www.latex-project.org/)
+
+---
 
 ### Control Systems Development 
 [![Matlab badge](https://img.shields.io/badge/Matlab-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
 [![Simulink badge](https://img.shields.io/badge/Simulink-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/simulink.html)
+
+---
 
 ### Softwares
 [![Microsoft Office badge](https://img.shields.io/badge/Microsoft_Office-black?style=flat&logo=microsoft-office)](https://www.microsoft.com/office)
