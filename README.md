@@ -6,7 +6,7 @@ I am Simone Contorno, Robotics Engineering student with a strong passion for pro
 - 🇮🇹 Country: Italy, 📍 Sanremo
 - 🇫🇷 Abroad experience: France, 📍 Nantes: EMARO+ (European Master on Advanced Robotics) double degree program 
 - 👨🏻‍🎓 BEng in [Computer Engineering](https://corsi.unige.it/en/corsi/8719) 
-- 👨🏻‍🎓 Msc in [Robotics Engineering](https://courses.unige.it/10635) 
+- 👨🏻‍🎓 MSc in [Robotics Engineering](https://courses.unige.it/10635) 
 - 🔭 I’m currently looking for an excellent job opportunity in the autonomous vehicle field which can give me solid possibilities for growing  
 - 🌱 I’m currently finishing my studies in Robotics Engineering by developing a Nonlinear Model Predictive Control for Self-Driving Vehicles for my Master's thesis
 - ⚡️ Fun facts: Gaming 🎮 & Sport 🏋️‍♂️
