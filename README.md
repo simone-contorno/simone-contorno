@@ -18,7 +18,7 @@ I am Simone Contorno, Robotics Engineering student with a strong passion for pro
 
 [![github badge](https://img.shields.io/badge/GitHub-black?style=social&logo=github)](https://github.com/simone-contorno) 
 
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://www.linkedin.com/in/simone-contorno-7a8505229) 
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://www.linkedin.com/in/simone-contorno) 
 
 [![telegram badge](https://img.shields.io/badge/Telegram-black?style=social&logo=telegram)](https://t.me/simone_contorno) 
 
