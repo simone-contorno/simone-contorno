@@ -98,8 +98,8 @@ I am Simone Contorno, a Robotics Engineer with a strong passion for software dev
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simone-contorno&repo=yarpmanager-console2&show_icons=true&theme=algolia" />
 </a>
 
-<a href="https://github.com/simone-contorno/rt2-assignment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simone-contorno&repo=rt2-assignment&show_icons=true&theme=algolia" />
+<a href="https://github.com/simone-contorno/mobile_robot_ai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=simone-contorno&repo=mobile_robot_ai&show_icons=true&theme=algolia" />
 </a>
 
 ---
