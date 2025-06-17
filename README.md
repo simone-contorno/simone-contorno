@@ -1,17 +1,19 @@
 # Hi there 👋
 
-I am Simone Contorno, a Robotics Engineer with a strong passion for software development!
+🤖 I'm a Robotics & AI Software Engineer with a strong academic background in Computer Engineering and Autonomous Systems. I specialize in C++, Python, ROS/ROS2, and Robotics Control.
 
-- 😄 Pronouns: He/Him
-- 🇮🇹 Country: Italy, 📍 Sanremo
-- 🇫🇷 Abroad experience in France, 📍 Nantes: EMARO+ (European Master on Advanced Robotics) double degree program
-- 🇩🇪 Abroad experience in Germany, 📍 Ingolstadt: Test and Integration Engineer
-- 👨🏻‍🎓 BEng in [Computer Engineering](https://corsi.unige.it/en/corsi/8719) 
-- 👨🏻‍🎓 MSc in [Robotics Engineering](https://courses.unige.it/10635) 
-- 🔭 I’m currently looking for an excellent job opportunity in the Robotics Field which can give me solid possibilities for learning and growing as a Robotics Software Developer  
-- 🌱 I finished my studies in Robotics Engineering with my Master's thesis "Nonlinear Model Predictive Control for Self-Driving Vehicles"
-- ⚡️ Fun facts: Gaming 🎮 & Sport 🏋️‍♂️
-- 📫 <a href="mailto:simone.contorno@outlook.it">Contact me</a>
+- 🎓 In 2021, I graduated with a Bachelor's degree in Computer Engineering and embarked on my Master's in Robotics Engineering at the University of Genoa. 
+- 🌍 In 2022, I was honoured to join the prestigious EMARO+ double degree program, leading me to pursue my studies in Advanced Robotics at the École Centrale de Nantes in France.
+- 📚 In August 2023, I completed my thesis on "Nonlinear Model Predictive Control for Self-Driving Vehicles", applying my research directly to a Renault Zoe car.
+- 💼 In November 2023, I started my career working as a Test and Integration Engineer for Audi cars in Germany. This role allows me to gain hands-on experience with software validation, automation, and integration in complex international environments.
+- 🧪 In October 2024, I earned the ISTQB Certified Tester Foundation Level certification, strengthening my skills in software testing as part of my current role.
+- 🎯 In January 2025, I started a professional training program by IBM on Coursera to earn the IBM AI Engineering Professional Certificate. The program includes 13 comprehensive courses on Machine Learning (ML), Deep Learning (DL), Generative AI (Gen AI), and key tools such as Python, Keras, TensorFlow, PyTorch and Scikit-Learn.
+
+🔧 Outside work, I apply my knowledge through personal projects, focusing on robotics simulations and deep learning applications — many of which are available in the repository section.
+
+🔝 Always eager to learn, innovate, and contribute to advancements in Robotics & AI, I aim to transition into roles where I can contribute to intelligent systems, innovation, and data-driven decision-making!
+
+📫 <a href="mailto:simone.contorno@outlook.it">Contact me</a>
 
 ---
 
