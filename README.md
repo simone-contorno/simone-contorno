@@ -2,12 +2,13 @@
 
 🤖 I'm a Robotics & AI Software Engineer with a strong academic background in Computer Engineering and Autonomous Systems. I specialize in C++, Python, ROS/ROS2, and Robotics Control.
 
-- 🎓 In 2021, I graduated with a Bachelor's degree in Computer Engineering and embarked on my Master's in Robotics Engineering at the University of Genoa. 
+- 🎓 In 2021, I graduated with a Bachelor's degree in Computer Engineering and embarked on my Master's in Robotics Engineering at the University of Genoa.
 - 🌍 In 2022, I was honoured to join the prestigious EMARO+ double degree program, leading me to pursue my studies in Advanced Robotics at the École Centrale de Nantes in France.
 - 📚 In August 2023, I completed my thesis on "Nonlinear Model Predictive Control for Self-Driving Vehicles", applying my research directly to a Renault Zoe car.
-- 💼 In November 2023, I started my career working as a Test and Integration Engineer for Audi cars in Germany. This role allows me to gain hands-on experience with software validation, automation, and integration in complex international environments.
+- 💼 In November 2023, I started my career working as a Software Test and Integration Engineer in Ingolstadt, Germany, working on Premium OEM automotive projects. This role allows me to gain hands-on experience with software validation, automation, and integration in complex international environments.
 - 🧪 In October 2024, I earned the ISTQB Certified Tester Foundation Level certification, strengthening my skills in software testing as part of my current role.
-- 🎯 In January 2025, I started a professional training program by IBM on Coursera to earn the IBM AI Engineering Professional Certificate. The program includes 13 comprehensive courses on Machine Learning (ML), Deep Learning (DL), Generative AI (Gen AI), and key tools such as Python, Keras, TensorFlow, PyTorch and Scikit-Learn.
+- 🎯 In July 2025, I completed the professional training program by IBM on Coursera to earn the IBM "AI Engineering" Professional Certificate and the IBM "Generative AI Engineering with LLMs" Specialization, which includes 13 comprehensive courses covering Machine Learning (ML), Deep Learning (DL), Generative AI (Gen AI), and key tools such as Python, Keras, TensorFlow, PyTorch, and Scikit-Learn.
+- 🚀 As of July 2025, I’m working as a Robotics Software Engineer in Augsburg, Germany, contributing to the development of robotic USV platforms through embedded and high-level software development, hardware integration within ROS2, and close collaboration with electronics and mechatronics team.
 
 🔧 Outside work, I apply my knowledge through personal projects, focusing on robotics simulations and deep learning applications — many of which are available in the repository section.
 
@@ -21,7 +22,7 @@
 
 [![github badge](https://img.shields.io/badge/GitHub-black?style=social&logo=github)](https://github.com/simone-contorno) 
 
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=social&logo=linkedin)](https://www.linkedin.com/in/simone-contorno) 
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/simone-contorno)
 
 ---
 
@@ -48,7 +49,6 @@
 [![C badge](https://img.shields.io/badge/C-black?style=flat&logo=c)](https://www.iso.org/standard/74528.html)
 [![C++ badge](https://img.shields.io/badge/C++-black?style=flat&logo=c%2B%2B)](https://isocpp.org/)
 [![Python badge](https://img.shields.io/badge/Python-black?style=flat&logo=python)](https://www.python.org/)
-[![Java badge](https://img.shields.io/badge/Java-black?style=flat&logo=java)](https://www.oracle.com/java/)
 
 ---
 
@@ -75,12 +75,6 @@
 ### Control Systems Development 
 [![Matlab badge](https://img.shields.io/badge/Matlab-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/matlab.html)
 [![Simulink badge](https://img.shields.io/badge/Simulink-black?style=flat&logo=mathworks)](https://www.mathworks.com/products/simulink.html)
-
----
-
-### Softwares
-[![Microsoft Office badge](https://img.shields.io/badge/Microsoft_Office-black?style=flat&logo=microsoft-office)](https://www.microsoft.com/office)
-[![VS Code badge](https://img.shields.io/badge/VS_Code-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
 
 ---
 
