@@ -29,8 +29,8 @@
 Most of my current work lives in private repositories at **[@Lemvos Robotics](https://github.com/lemvos)**.
 Snapshot of my contribution activity there:
 
-![Lemvos org activity](.\imgs\lemvos-activity-2026.png)
-![Lemvos org activity](.\imgs\lemvos-activity-2025.png)
+![Lemvos org activity 2026](./imgs/lemvos-activity-2026.png)
+![Lemvos org activity 2025](./imgs/lemvos-activity-2025.png)
 
 *Private org snapshot — June 2026 | Autonomous USV stack, ROS2 drivers, CI/CD pipelines*
 
