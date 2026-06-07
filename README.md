@@ -10,9 +10,9 @@
 
 - Full autonomy stacks (perception → planning → control) for unmanned surface vehicles in **ROS2/Nav2**
 - **EKF-based sensor fusion**: GNSS + IMU for real-time navigation state estimation
-- **ROS2 lifecycle drivers** with watchdog recovery for camera, GNSS, and IMU subsystems; Jetson Orin NX **kernel customization** for embedded hardware compatibility
-- **Image segmentation** on NVIDIA Jetson Orin NX: Isaac ROS integration, custom dataset fine-tuning (CVAT/SAM), TensorRT conversion for on-device inference
-- **Foxglove Studio extensions** (TypeScript/React) for autonomous goal/waypoint control, AIS vessel data display, and sonar depth visualization via WebSocket
+- **ROS2 lifecycle drivers** with watchdog recovery for camera, GNSS, and IMU subsystems; Jetson Orin **kernel customization** for embedded hardware compatibility
+- **Image segmentation** on NVIDIA Jetson Orin: Isaac ROS integration, custom dataset fine-tuning (CVAT/SAM), TensorRT conversion for on-device inference
+- **Foxglove Studio extensions** for autonomous goal/waypoint control, AIS vessel data display, and sonar depth visualization via WebSocket
 - System observability: **Grafana + Prometheus + Loki** dashboards, alerting, and per-process monitoring
 - **Debian package CI/CD** via GitHub Actions; production network management with ModemManager and NetworkManager
 
